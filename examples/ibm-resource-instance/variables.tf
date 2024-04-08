@@ -15,7 +15,7 @@ variable "location" {
 }
 
 variable "resource_group" {
-  default = "default"
+  default = "devsecops-rg"
 }
 
 
